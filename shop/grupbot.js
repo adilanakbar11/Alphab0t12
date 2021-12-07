@@ -1,15 +1,15 @@
 // jangan di ubah jika tidak punya group bot, takutnya eror
 const gcbotwa = () =>{
-	return`Join Aja Semua Fitur Bot Bisa Digunakan !
+	return`Join Aja Semua Grub Bot Bisa Digunakan !
 
-1. *Alphabot Support*
-_https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV_
-2. *Alphabot Support 2*
-_https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE_
-3. *Alphabot Support 3*
-_https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy_
-4. *Alphabot Support 4* 
-_https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU_
+1. *𝗟𝗔𝗫𝗬 𝗦𝗧𝗢𝗥𝗘 𝗚𝗥𝗨𝗕*
+_https://chat.whatsapp.com/EXiuNWPee0fFJ2pcGaIgtD_
+2. *𝗜𝗡𝗙𝗢 𝗙𝗧 𝗕𝗬 𝗟𝗔𝗫𝗬 1*
+_https://chat.whatsapp.com/Gso27YllidOIagAMJ7s94T_
+3. *𝗜𝗡𝗙𝗢 𝗙𝗧 𝗕𝗬 𝗟𝗔𝗫𝗬 2*
+_https://chat.whatsapp.com/Kf17dFXovcuHdxY132YgUo_
+4. *𝗜𝗡𝗙𝗢 𝗙𝗧 𝗕𝗬 𝗟𝗔𝗫𝗬 3* 
+_https://chat.whatsapp.com/JcpDzlO4mbMIo0poQiQzmV_
 
 Jika ada link yang ke reset, silahkan hubungi
 owner untuk meminta link yang baru
