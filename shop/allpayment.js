@@ -1,29 +1,23 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `𝗣𝗔𝗬𝗠𝗘𝗡𝗧 𝗕𝗬 𝗟𝗔𝗫𝗬 𝗦𝗧𝗢𝗥𝗘 💸
 
-*🏧 BANK*
-
+*さ BANK*
 1. BRI 
-	ㅁ 8881 0887 4350 47326
-2. BCA 
-	ㅁ 3901 0887 4350 47326
-3. BNI 
-	ㅁ 881 0887 4350 47326
-4. PERMATA
-	ㅁ 852 8887 4350 47326
-	
-*💰 E-MONEY*
-
+	ㅁ TIDAK ADA ❌
+		• R***A*DI
+		
+*さ E-MONEY*
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ 082117489822
+		• AD**** A***R
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ 082117489822
+		• TA*****H
 3. DANA
-	ㅁ 0887 4350 47326
-	
-Semuanya atas nama RI****DI
+	ㅁ 082117489822
+		• TA*****H
 
-*📲 PULSA*
+*さ PULSA*
 
 Tidak tersedia
 	
