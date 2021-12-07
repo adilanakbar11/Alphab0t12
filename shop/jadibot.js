@@ -7,8 +7,8 @@ return`╭──「 📖  *PRICE JADIBOT*」
 │
 ├ • *Permanen*
 │
-│ ⤷ *Harga :  25k [E-Wallet]*
-│ ⤷ *Harga :  28k [Pulsa]*
+│ ⤷ *Harga :  5k [E-Wallet]*
+│ ⤷ *Harga :  8k [Pulsa]*
 │
 ├─ 「 💰  *PAYMENT* 」
 │
@@ -25,7 +25,7 @@ return`╭──「 📖  *PRICE JADIBOT*」
 ├─ 「 📝  *NOTES* 」
 │
 │ ⤷ _Tidak perlu termux_
-│ ⤷ _Minat? Hubungi 0887435047326_
+│ ⤷ _Minat? Hubungi _ +62 821-1748-9822
 │
 ╰──「 *Thank's* 」
 `
