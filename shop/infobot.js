@@ -1,5 +1,5 @@
 const infobot = (status, offline, latensii, totalchat, giid, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, ownerNumberrr,runtime, kyun) => {
-return `ℒ⃝👾 *B O T  S T A T I S T I C*
+return `ℒ⃝👾 *𝗕𝗢𝗧 𝗟𝗔𝗫𝗬 𝗦𝗧𝗔𝗧𝗜𝗦𝗧𝗜𝗖*
 
 👨‍💻 Owner : @${ownerNumberrr.split('@')[0]}
 ☪️ Lib  : Baileys
@@ -13,7 +13,7 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 🌾 Runtime : ${kyun(runtime)}
 
 
-ℒ⃝📲 *P H O N E  S T A T I S T I C*
+ℒ⃝📲 *𝗣𝗛𝗢𝗡𝗘 𝗦𝗧𝗔𝗧𝗜𝗦𝗧𝗜𝗖*
 
 🪀 WhatsApp V : ${wa_version}
 🛑 RAM : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
@@ -24,7 +24,7 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 📮 Versi Hp : ${device_model}
 
 
-ℒ⃝👨‍💻 *C O N N E C T  W I T H  M E*
+ℒ⃝👨‍💻 *𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗪𝗜𝗧𝗛 𝗠𝗘*
 
 ⛎ Api : api-alphabot.herokuapp.com
 ♈ YouTube : youtube.com/c/zeeoneofc
