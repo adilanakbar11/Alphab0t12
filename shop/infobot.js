@@ -26,14 +26,13 @@ return `ℒ⃝👾 *𝗕𝗢𝗧 𝗟𝗔𝗫𝗬 𝗦𝗧𝗔𝗧𝗜𝗦𝗧�
 
 ℒ⃝👨‍💻 *𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗪𝗜𝗧𝗛 𝗠𝗘*
 
-⛎ Api : api-alphabot.herokuapp.com
-♈ YouTube : youtube.com/c/zeeoneofc
-♉ Github : zeeoneofc.github.io
-♊ Instagram : instagram.com/zeeoneofc
-♋ Tiktok : tiktok.com/@zeeoneofc
-♌ Telegram : t.me/zeeoneofc
-♎ Ch Telegram : t.me/zeeone_ofc
-♏ WhatsApp : bit.ly/zeeone_ofc
+♈ YouTube : https://youtube.com/channel/UCOnG-upCYgeUM5pKoK22ezA
+♉ Github : https://github.com/adilanakbar11
+♊ Instagram : https://instagram.com/laxystore_?utm_medium=copy_link
+♋ Tiktok : Gak Punya :(
+♌ Telegram : Gak Punya :(
+♎ Ch Telegram : Gak Punya :(
+♏ WhatsApp : Gak Punya :(
 `}
 
 exports.infobot = infobot
