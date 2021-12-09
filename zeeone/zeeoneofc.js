@@ -20,7 +20,7 @@ ${petik}│◦➛Whatsapp : ${wa_version}
 │◦➛MCC : ${mcc}
 └❏ MNC : ${mnc}${petik}
 
-┌─❑「 *BOT INFO* 」
+┌─❑「 *BOT LAXY INFO* 」
 ${petik}│◦➛ Owner : ${ownername}
 │◦➛Mode : ${status}
 │◦➛Prefix : ${prefix}
@@ -110,7 +110,7 @@ ${petik}└❒ ${prefix}anime${petik} _random_
 `
 }
 const allmenu = (prefix, wita, wit, ucapannya2, timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat, latensiii, tekss)  => {
-	return`❏───「 *ALPHA BOT* 」───❏
+	return`❏───「 *𝗟𝗔𝗫𝗬 𝗕𝗢𝗧* 」───❏
      
 ┌❏ *INDONESIA TIME*
 ${petik}│◦➛ WIB : ${timuu}
