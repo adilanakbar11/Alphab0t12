@@ -194,7 +194,7 @@ autoketik = false
 autoregister = setting.user_register
 
 img = setting.img
-baper = '© 𝑓𝑜𝑙𝑙𝑜𝑤- @𝑙𝑎𝑥𝑦𝑠𝑡𝑜𝑟𝑒'
+baper = '© 𝑓𝑜𝑙𝑙𝑜𝑤 : @𝑙𝑎𝑥𝑦𝑠𝑡𝑜𝑟𝑒 --->'
 apiku = 'https://instagram.com/laxystore_?utm_medium=copy_link'
 gc_wa_lu = 'https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV' //klo gk punya gc wa gk usah di ganti 👍
 targetpc = setting.ownerNumberr
